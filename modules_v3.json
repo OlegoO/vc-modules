@@ -57,7 +57,8 @@
     "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
     "Tags": "azure search",
     "Groups": [
-      "commerce"
+      "commerce",
+      "digital catalog"
     ],
     "Versions": [
       {
@@ -107,7 +108,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "shopping cart",
     "Groups": [
-      "commerce"
+      "commerce",
+      "order management"
     ],
     "Versions": [
       {
@@ -189,7 +191,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "catalog",
     "Groups": [
-      "commerce"
+      "commerce",
+      "digital catalog"
     ],
     "Versions": [
       {
@@ -330,7 +333,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "customer",
     "Groups": [
-      "commerce"
+      "commerce",
+      "customer management"
     ],
     "Versions": [
       {
@@ -396,7 +400,8 @@
     "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
     "Tags": "elastic search",
     "Groups": [
-      "commerce"
+      "commerce",
+      "digital catalog"
     ],
     "Versions": [
       {
@@ -528,7 +533,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "order system",
     "Groups": [
-      "commerce"
+      "commerce",
+      "digital catalog"
     ],
     "Versions": [
       {
@@ -636,7 +642,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "marketing promotion",
     "Groups": [
-      "commerce"
+      "commerce",
+      "order management"
     ],
     "Versions": [
       {
@@ -759,7 +766,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "order system",
     "Groups": [
-      "commerce"
+      "commerce",
+      "order management"
     ],
     "Versions": [
       {
@@ -873,7 +881,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "payments",
     "Groups": [
-      "commerce"
+      "commerce",
+      "order management"
     ],
     "Versions": [
       {
@@ -931,7 +940,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "price pricelist merchandise",
     "Groups": [
-      "commerce"
+      "commerce",
+      "digital catalog"
     ],
     "Versions": [
       {
@@ -1045,7 +1055,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "shipping",
     "Groups": [
-      "commerce"
+      "commerce",
+      "order management"
     ],
     "Versions": [
       {
@@ -1244,7 +1255,8 @@
     "Copyright": "Copyright © 2020-2021 Virto Commerce. All rights reserved",
     "Tags": "subscriptions system",
     "Groups": [
-      "commerce"
+      "commerce",
+      "order management"
     ],
     "Versions": [
       {
@@ -1326,7 +1338,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "stores",
     "Groups": [
-      "commerce"
+      "commerce",
+      "order management"
     ],
     "Versions": [
       {
@@ -1595,7 +1608,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "catalog personalization products categories",
-    "Groups": null,
+    "Groups": [ "digital catalog" ],
     "Versions": [
       {
         "Version": "3.9.0",
@@ -1870,7 +1883,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "b2b quotes",
-    "Groups": null,
+    "Groups": [ "order management" ],
     "Versions": [
       {
         "Version": "3.14.0",
@@ -2459,7 +2472,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2021-2021 Virto Commerce. All rights reserved",
     "Tags": "dynamic customer segmentation tagging",
-    "Groups": null,
+    "Groups": [ "customer management" ],
     "Versions": [
       {
         "Version": "1.3.0",
